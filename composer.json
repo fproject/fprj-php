@@ -1,0 +1,33 @@
+{
+    "name": "fproject/fprj-php",
+    "description": "PHP Common Library for F-Project Framework",
+    "keywords": ["fproject", "php", "common"],
+    "homepage": "https://github.com/fproject/fprj-php",
+    "type": "library",
+    "license": "Apache License 2.0",
+    "support" : {
+      "issues" : "https://github.com/fproject/fprj-php/issues"
+    },
+    "authors": [
+        {
+            "name": "Bui Sy Nguyen",
+            "email": "nguyenbs@f-project.net",
+            "homepage": "http://f-project.net"
+        }
+    ],
+    "minimum-stability" : "stable",
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "require" : {
+      "php" : ">=5.4.0"
+    },
+    "config" : {
+      "process-timeout" : 1800
+    },
+    "autoload": {
+        "psr-4": {
+            "fproject\\": "fproject/"
+        }
+    }
+}
