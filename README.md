@@ -1,5 +1,5 @@
 # fprj-php
-PHP Common Library for F-Project Framework
+PHP Common Library for F-Project Framework\
 Author: Bui Sy Nguyen.
 
 [![Latest Stable Version](https://poser.pugx.org/fproject/fprj-php/v/stable)](https://packagist.org/packages/fproject/fprj-php)
