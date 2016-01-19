@@ -34,7 +34,7 @@ class WorkCalendar
     public $periods;
 
     /**
-     * @var WorkCalendar $baseCalendar The base calendar of this work calendar
+     * @var WeekDay[] $weekDays The weekday periods this work calendar
      */
     public $weekDays;
 
