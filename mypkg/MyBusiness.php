@@ -1,7 +1,7 @@
 <?php
 
 namespace mypkg;
-class Period
+class MyBusiness
 {
     public function sayHello($a, $b)
     {
