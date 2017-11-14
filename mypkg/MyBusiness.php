@@ -1,6 +1,6 @@
 <?php
 
-namespace fproject\calendar;
+namespace mypkg;
 class Period
 {
     public function sayHello($a, $b)
