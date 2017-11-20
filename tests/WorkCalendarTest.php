@@ -15,7 +15,7 @@ class WorkCalendarTest extends PHPUnit_Framework_TestCase
     {
          $workCal = new WorkCalendar();
         $workCal->id = "Some Value";
-        $this->assertTrue($workCal->id === "Some Value 1");
+        $this->assertTrue($workCal->id === "Some Value");
     }
 }
 ?>
