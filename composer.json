@@ -4,7 +4,7 @@
     "keywords": ["fproject", "php", "common"],
     "homepage": "https://github.com/fproject/fprj-php",
     "type": "library",
-    "license": "Apache License 2.0",
+    "license": "Apache-2.0",
     "support" : {
       "issues" : "https://github.com/fproject/fprj-php/issues"
     },
